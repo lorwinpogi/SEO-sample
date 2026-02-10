@@ -13,5 +13,5 @@ This repository contains a PDF showcasing an SEO-optimized content sample create
 This sample demonstrates my approach to creating search-friendly, user-focused content that balances SEO strategy with clear, readable writing.
 
 ## Download
-📄 [SEO-sample-portfolio](./SEO-sample-portfolio.pdf)
+📄 [SEO-sample-portfolio](/SEO-sample-portfolio.pdf)
 
